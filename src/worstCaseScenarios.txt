@@ -1,0 +1,6 @@
+Worst Cases for each sorting algorithm:
+1. Bubble Sort - O(n^2) - when the array is in reverse order to the given comparator (descending for ascending comparator, ascending for descending comparator).
+2. Insertion Sort - O(n^2) - when the array is in reverse order to the given comparator (see above for in-depth examples).
+3. Selection Sort - O(n^2) - when the array is in reverse order to the given comparator (see examples in #1).
+4. Cocktail Sort - O(n^2) - when the array is in reverse order to the given comparator; although it may run faster than the usual Bubble Sort.
+5. Comb Sort - O(n^2) - when the array is in reverse order to the given comparator. In regular cases, this algorithm may run at O(nlog(n)) time complexity.
